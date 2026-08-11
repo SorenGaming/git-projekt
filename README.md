@@ -27,3 +27,7 @@ Formålet er at lære:
 ## Billede
 
 ![missekat](images/Orange-Cat-Behavior-What-Makes-Orange-Kitties-Special.jpg)
+
+## Ændring fra GitHub
+
+Denne tekst er tilføjet direkte på GitHub for at teste git pull.
