@@ -21,3 +21,9 @@ Formålet er at lære:
 - Markdown
 - Commits
 - Push og pull
+## Links
+
+[Besøg GitHub](https://github.com/)
+## Billede
+
+![missekat](images/Orange-Cat-Behavior-What-Makes-Orange-Kitties-Special.jpg)
